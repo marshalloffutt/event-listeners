@@ -1,0 +1,21 @@
+.blue {
+    color: blue;
+}
+
+.large {
+    font-size: 100px;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bordered {
+    border: 2px solid dashed;
+}
+
+.brown {
+    color: brown;
+}
+
+.rounded {
+    border-radius: 75%;
+}
